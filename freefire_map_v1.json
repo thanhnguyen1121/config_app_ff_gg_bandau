@@ -1,30 +1,39 @@
 {
   "ads": {
-    "id_app":"",
-    "banner_setting": "ca-app-pub-3082814971751832/3944407228",
-    "inter_setting": "ca-app-pub-/6667676781",
-    "banner_main": "ca-app-pub-/6667676781",
-    "inter_main": "ca-app-pub-3082814971751832/5015275306",
-    "banner_setting_new" : "ca-app-pub-4084941899768286/4927395689",
-    "inter_setting_new" : "ca-app-pub-4084941899768286/6212557198",
-    "banner_main_new" : "ca-app-pub-4084941899768286/8647148844",
-    "inter_main_new" : "ca-app-pub-4084941899768286/4707903835",
+    "id_app": "5f191049e88d834ccd84aa8a",
+    "flury_id": "3JZJDXHR722CT43HTN37",
+    "banner_setting": "ca-app-pub-4084941899768286/9104414032",
+    "inter_setting": "ca-app-pub-4084941899768286/6258758847",
+    "banner_main": "ca-app-pub-4084941899768286/1006432168",
+    "inter_main": "ca-app-pub-4084941899768286/7380268822",
+    "banner_setting_new" : "ca-app-pub-4084941899768286/9104414032",
+    "inter_setting_new" : "ca-app-pub-4084941899768286/6258758847",
+    "banner_main_new" : "ca-app-pub-4084941899768286/1006432168",
+    "inter_main_new" : "ca-app-pub-4084941899768286/7380268822",
     "onlyAdmod": true,
     "onlyFB": false,
     "fb_banner": "",
     "fb_inter": ""
-  }, 
+  },
+  "isExit": true,
+  "showMoreApp": false,
+  "idNew": "",
   "app_exists": {
     "id": "com.king.candycrushsaga",
     "is_exists": true,
-    "is_show_more": false
+    "is_show_more": false,
+    "isLoading": false,
+    "isShowAds": true
   },
   "apps": [
-    {
-      "id": "com.king.candycrushsaga",
-      "icon": "https://lh3.googleusercontent.com/nH7Fy5zzUuU5ZXNbmCNL1ExKEpObT17IIsvYBYLoGjtUKpsf_tTfX9C8fCmauQ9oQ65Y=s180-rw",
-      "name": "Call of Duty: Mobile VN",
-      "des": "Là tựa game xuất sắc giành được các danh hiệu cao nhất của Google Play Awards 2019:"
+   {
+      "id": "com.guide.freefire.maps.diamonds",
+      "icon": "https://play-lh.googleusercontent.com/dVhLTqXbwFudWxdS4lRPgHl4GqTnoKHG8Lx8VzaicqQQ2PWxL2Phw8_mfDHdcV-Q5CeE=s180-rw",
+      "name": "Map guide for free Fire - free fire map",
+      "des": "Likes, Followers for Instragram 2020 : Gain and Boost more Fans & Followers. Get discovered quickly - boost your profile views and engagement and real likes followers.",
+      "s1":"https://play-lh.googleusercontent.com/CoO9KgdqXy4Z9g28uPlL_j6vCWqFU7U42gSmGprxR3xakhkrqe4mVjd37CRzw7w1cg=w720-h310-rw",
+      "s2":"https://play-lh.googleusercontent.com/gCzDhLXVGjYa2PQARuB6GRREAPMeVofpOgE9yaM1Gu5BqL0DxdrB3NsdaNjUxAYGoeY=w720-h310-rw",
+      "s3":"https://play-lh.googleusercontent.com/JMjmm_zIExFH0U_x13_Tj4TGWG6vIUr4Tqvcj7BHoAsJSnmKm6WpI-1eb8t6nUE_Ww=w720-h310-rw"
     }
   ]
 }
